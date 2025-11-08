@@ -32,7 +32,7 @@ SVM   : Enabled
 Exécutez le script depuis le dossier.
 
 ```
-sudo ./00_check_environment.sh.sh
+sudo ./00_check_environment.sh
 ```
 
 Cette commande retourne l'état de IOMMU et SVM ainsi que la liste des groupes IOMMU.
